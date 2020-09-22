@@ -1,13 +1,13 @@
 /*General style*/
 
 h1,
-h3 {
+.box {
   text-align: center;
   padding: 10px;
   font-family: arial, sans-serif;
   color: yellow;
 }
 
-h3 {
+.box {
   background-color: blue;
 }
