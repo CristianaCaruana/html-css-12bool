@@ -10,4 +10,5 @@ h1,
 
 .box {
   background-color: blue;
+  border: 1px solid white;
 }
